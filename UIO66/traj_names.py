@@ -12,4 +12,5 @@ def get_traj_names():
         'uio66_tempo_replaced_linkers/removed3',          \
         'uio66_tempo_removed_linker_and_cluster/removed1',\
         'uio66_tempo_removed_linker_and_cluster/removed2',\
-        'uio66_tempo_removed_linker_and_cluster/removed3']
+        'uio66_tempo_removed_linker_and_cluster/removed3', \
+        'uio66_tempo_water_removed/removed1']
